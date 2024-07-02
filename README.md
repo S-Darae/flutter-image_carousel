@@ -153,5 +153,6 @@ PageController pageController = PageController();
 3. pubspec.yaml에 아래 코드 추가하여 에셋 등록하기
 
 ```
-assets : - asset/img/
+assets :
+   - asset/img/
 ```
